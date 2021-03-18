@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @itslami
-- 👀 I’m interested in 
+
 - 🌱 I’m currently learning CSS & Javascipt
 
 - 📫 How to reach me olamide1999@gmail.com
